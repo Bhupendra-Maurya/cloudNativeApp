@@ -149,6 +149,3 @@ The Email Marketing Application leverages AWS to automate and streamline email m
 
 The application's core functionalities include a central repository in S3, automated workflows with Lambda, and event-driven automation using EventBridge. This project serves as a blueprint for leveraging cloud technology for effective email marketing and has potential for future enhancements to further optimize campaign performance and customer engagement.
 
-## References
-
-[Insert references here]
