@@ -10,7 +10,7 @@
 3. Motivation
 4. Related Work
 5. Objectives
-6. Analysis and Design
+6. Analysis
 7. Proposed Method
 8. Hardware and Software Requirements
 9. Plan of Work (Gantt Chart)
@@ -86,7 +86,8 @@ The Email Marketing Application aims to develop a scalable and automated platfor
    - Perform regular maintenance and address issues promptly.
 
 ## Proposed Method
-
+![image1](https://github.com/Bhupendra-Maurya/cloudNativeApp/blob/main/Picture1.png)
+![image2](https://github.com/Bhupendra-Maurya/cloudNativeApp/blob/main/Picture2.png)
 ### Challenge
 
 Traditional email marketing workflows are manual and time-consuming, hindering efficiency and scalability.
@@ -125,7 +126,7 @@ The Email Marketing Application, built on AWS, automates key processes using AWS
 
 ## Plan of Work (Gantt Chart)
 
-[Gantt Chart](https://github.com/Bhupendra-Maurya/cloudNativeApp/blob/main/GantChart.pdf)
+![image](https://github.com/Bhupendra-Maurya/cloudNativeApp/blob/main/ganttchart.jpeg)
 
 ## Future Scope
 
